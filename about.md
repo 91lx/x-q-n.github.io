@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: *招募* "新青年"内容协作计划
 permalink: /about/
 ---
 
