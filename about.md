@@ -4,18 +4,15 @@ title: About
 permalink: /about/
 ---
 
-1915年9月，陈独秀先生的《新青年》杂志创刊发行，之后钱玄同、高一涵、胡适、李大钊、沈尹默、刘半农以及鲁迅都曾加入轮流编辑。《新青年》杂志是中国五四新文化兴起的标志。它代表了一群令人仰慕的大师，一个群星璀璨的年代。
+This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
 
-一个世纪后的今天，科技进步，物质丰沛，但大师却少了。我们不敢在思想、文学等方面与这些先辈比较，但我们也不缺他们青年时，那种关心社会的本能。
+You can find the source code for Minima at GitHub:
+[jekyll][jekyll-organization] /
+[minima](https://github.com/jekyll/minima)
 
-当今互联网深刻改变着人们的学习和思维方式，这也许也是我们相对先辈难得的，勉强的信心所在。
+You can find the source code for Jekyll at GitHub:
+[jekyll][jekyll-organization] /
+[jekyll](https://github.com/jekyll/jekyll)
 
-互联网的精神是去中心化和平权。我们会充分发扬互联网的精神，`这里没有大师，这里都是追求进步的青年。`
 
-我们的价值观：进步，自由，协作，爱国。
-
-选题方向：当下青年关心的社会议题。
-
-暂定流程：半月一期，每期一个主题。大家先讨论出每期主题，然后投稿，最后编辑成一期内容，网上存档。具体操作，请关注微信公众号`(微信公众号: x-q-ning)`后，按底部菜单操作。
-
-也欢迎大家微博上日常互动`(微博名: 新青年志)`。
+[jekyll-organization]: https://github.com/jekyll
